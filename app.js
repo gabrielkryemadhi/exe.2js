@@ -3,7 +3,7 @@ const hours = document.getElementById("hours");
 const minutes = document.getElementById("minutes");
 const seconds = document.getElementById("seconds");
 
-const eventDate = new Date(`May 01 2023 00:05:00`);
+const eventDate = new Date(`<september 24 2023 01:00:00`);
 
 function updateCountdown() {
     const currentTime = new Date();
